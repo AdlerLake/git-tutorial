@@ -1,2 +1,2 @@
 print('hello') 
-print('new feats') 
+print('new features') 
